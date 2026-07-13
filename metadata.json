@@ -1,0 +1,6 @@
+{
+  "name": "SnoMate",
+  "description": "Sweet Frosty Friend - An interactive ice cream delivery menu, order tracker, personalized flavor profiler, and master database entity manager.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
